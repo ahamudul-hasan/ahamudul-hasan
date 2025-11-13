@@ -43,6 +43,8 @@
 <br/>
 <hr/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priantox)](https://github.com/Priantox/github-readme-stats)
+
 <br/><br/>
 
 <div align="center">
