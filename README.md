@@ -46,7 +46,7 @@
 <!-- Frameworks & Libraries / Runtimes -->
 <h3 align="center">🧩 Frameworks</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mogodb,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </div>
 <br/>
 
