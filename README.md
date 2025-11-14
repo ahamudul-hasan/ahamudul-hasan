@@ -39,7 +39,7 @@
 <!-- Languages -->
 <h3 align="center">🌐 Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bash,python,java,php,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bash,python,java,c,cpp" />
 </div>
 <br/>
 
