@@ -44,7 +44,7 @@
 <br/>
 
 <!-- Frameworks & Libraries / Runtimes -->
-<h3 align="center">🧩 Frameworks & Libraries</h3>
+<h3 align="center">🧩 Frameworks</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </div>
