@@ -53,7 +53,7 @@
 <!-- Tools -->
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,npm,vscode" />
 </div>
 
 <hr/>
