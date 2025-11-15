@@ -73,12 +73,15 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
 
   <!-- GitHub Stats -->
-  <img width="400" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="400" height="180" style="border-radius: 10px;" 
+       src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <!-- GitHub Streak -->
-  <img width="400" style="border-radius: 10px;" src="https://github-readme-streak-stats.herokuapp.com?user=Priantox&theme=tokyonight&hide_border=true" />
+  <img width="400" height="180" style="border-radius: 10px;" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Priantox&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 <br/>
 
