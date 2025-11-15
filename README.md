@@ -60,17 +60,50 @@
 
 <hr/>
 
-📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=radical&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Priantox&theme=radical" />
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priantox&layout=compact&theme=radical" />
+
+### **Priantox's GitHub Stats**
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priantox&theme=tokyonight" />
+
+<br/>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Priantox&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<hr/>
+<br/>
+
+## 🧠 Languages Overview
+
+<div align="center">
+
+<!-- Pie chart thinner and text smaller -->
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priantox&theme=tokyonight&hide_title=false&ring_width=10&font_size=10" />
+
+<br/>
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priantox&theme=tokyonight&hide_title=false&ring_width=10&font_size=10" />
+
+<br/>
+
+</div>
+
+
+
+
+
+### **Contribution Graph**
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priantox&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
 <!-- Buy me-->
 <br/><br/>
 
