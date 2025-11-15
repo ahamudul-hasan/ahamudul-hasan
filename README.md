@@ -60,7 +60,7 @@
 
 <hr/>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=radical&count_private=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Priantox&theme=radical" />
