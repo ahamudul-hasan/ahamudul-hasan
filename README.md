@@ -56,17 +56,19 @@
   <img src="https://skillicons.dev/icons?i=git,postman,figma,npm,vscode" />
 </div>
 
-<hr/>
-<!-- Stats-->
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priantox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<hr/>
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Priantox&theme=radical" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priantox&layout=compact&theme=radical" />
+</div>
 
 <hr/>
 <!-- Buy me-->
