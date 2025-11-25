@@ -69,19 +69,6 @@
 
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-
-  <!-- GitHub Stats -->
-  <img width="400" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-<br/>
-
-
-
-
 ### **Contribution Graph**
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priantox&theme=tokyo-night&hide_border=true&area=true" />
 
