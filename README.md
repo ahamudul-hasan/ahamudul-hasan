@@ -78,7 +78,7 @@
 <br/><br/>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/prianto" target="_blank">
+  <a href="https://buymeacoffee.com/Prianto" target="_blank">
     <img
       height="64"
       style="border:0px;height:64px;"
