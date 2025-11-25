@@ -74,20 +74,10 @@
 
 </div>
 
-<!-- Buy me-->
-<br/><br/>
+<br/>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/Prianto" target="_blank">
-    <img
-      height="64"
-      style="border:0px;height:64px;"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      border="0"
-      alt="Buy Me a Coffee"
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=19&color=FFDD00&center=true&vCenter=true&width=400&lines=+Thanks,+Consider+buying+me+a+coffee!++%E2%98%95%F0%9F%92%9B" />
 </div>
 
 
-<br/>
