@@ -64,9 +64,6 @@
 
 <div align="center">
 
-### **Priantox's GitHub Stats**
-
-
 <br/>
 
 ### **Contribution Graph**
