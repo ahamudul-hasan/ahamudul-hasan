@@ -10,8 +10,6 @@
 <div align="center">
  
  🔭 I’m currently just a student
- 
- 🌱 I’m currently learning **ML, Express Js**
 
 💬 Ask me about **React, Next js or anything**
 
