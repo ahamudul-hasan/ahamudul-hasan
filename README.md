@@ -1,18 +1,10 @@
-
-<h1 align="center">
+﻿<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahamudul+Hasan!;" />
 </h1>
 
-
-<br/>
+<hr/>
 
 <div align="center">
- 
- 🔭 I’m currently just a student
-
- </div>
- 
-<div align="center"> 
   <a href="priantox07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,16 +19,29 @@
     </a>
 </div>
 
- <hr/>
+<hr/>
 
- <!-- Frameworks & Libraries / Runtimes -->
+## 👤 About Me
+
+- 🔭 I'm currently just a student
+- 🌱 Improving my skills in full-stack development
+- 💻 Working on web applications and learning new tools
+- ⚡ Currently learning GPU Programming with CUDA
+- 🤖 Machine Learning fundamentals
+- 🔥 Currently Learning Deep Learning with PyTorch
+
+<hr/>
+
+<!-- Frameworks & Libraries / Runtimes -->
+
 <h3 align="center">🧩 Frameworks</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind" />
 </div>
 <br/>
- 
+
 <!-- Languages -->
+
 <h3 align="center">🌐 Languages</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,bash,python,java,c,cpp" />
@@ -44,12 +49,11 @@
 <br/>
 
 <!-- Tools -->
+
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,mysql,figma,npm,vscode" />
 </div>
-
-###
 
 <hr/>
 
@@ -60,6 +64,7 @@
 <br/>
 
 ### **Contribution Graph**
+
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahamudul-hasan&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
@@ -69,5 +74,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=19&color=FFDD00&center=true&vCenter=true&width=400&lines=+Thanks,+Consider+buying+me+a+coffee!++%E2%98%95%F0%9F%92%9B" />
 </div>
-
-
