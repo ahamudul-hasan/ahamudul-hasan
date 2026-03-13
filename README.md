@@ -28,7 +28,7 @@
 - 💻 Working on web applications and learning new tools
 - ⚡ Currently learning GPU Programming with CUDA
 - 🤖 Machine Learning fundamentals
-- 🔥 Currently Learning Deep Learning with PyTorch
+- 🔥 Currently focusing on Deep Learning with PyTorch
 
 <hr/>
 
