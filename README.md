@@ -36,7 +36,7 @@
 
 <h3 align="center">🧩 Frameworks</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind" />
+  <img src="https://skillicons.dev/icons?i=pytorch,react,nextjs,nodejs,express,flask,tailwind" />
 </div>
 <br/>
 
